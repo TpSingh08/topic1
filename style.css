@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: #FFFFE8;
+}
+.Main{
+    font-family: 'Dancing Script', cursive;
+}
+.head{
+    font-family: 'Dancing Script', cursive;
+}
+.Lappy{
+
+}
+.Laptop{
+    width: 100px;
+    float: left;
+}
+table{
+    margin: 100 auto;
+}
+
