@@ -29,7 +29,11 @@ table{
     margin-right: auto;
 }
 .ok{
-    width: 100%;
+    width: auto;
+    table-layout: fixed;
+}
+.of{
+    text-align: left;
 }
 hr{
     border: dotted 4px;
